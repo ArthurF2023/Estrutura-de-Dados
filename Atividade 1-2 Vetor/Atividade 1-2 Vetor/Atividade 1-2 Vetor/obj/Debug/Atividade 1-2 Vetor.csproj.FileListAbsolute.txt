@@ -1,0 +1,7 @@
+C:\Users\Arthur-Gamer\Desktop\Atividade 1-2 Vetor\Atividade 1-2 Vetor\Atividade 1-2 Vetor\bin\Debug\Atividade 1-2 Vetor.exe.config
+C:\Users\Arthur-Gamer\Desktop\Atividade 1-2 Vetor\Atividade 1-2 Vetor\Atividade 1-2 Vetor\bin\Debug\Atividade 1-2 Vetor.exe
+C:\Users\Arthur-Gamer\Desktop\Atividade 1-2 Vetor\Atividade 1-2 Vetor\Atividade 1-2 Vetor\bin\Debug\Atividade 1-2 Vetor.pdb
+C:\Users\Arthur-Gamer\Desktop\Atividade 1-2 Vetor\Atividade 1-2 Vetor\Atividade 1-2 Vetor\obj\Debug\Atividade 1-2 Vetor.csproj.AssemblyReference.cache
+C:\Users\Arthur-Gamer\Desktop\Atividade 1-2 Vetor\Atividade 1-2 Vetor\Atividade 1-2 Vetor\obj\Debug\Atividade 1-2 Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Arthur-Gamer\Desktop\Atividade 1-2 Vetor\Atividade 1-2 Vetor\Atividade 1-2 Vetor\obj\Debug\Atividade 1-2 Vetor.exe
+C:\Users\Arthur-Gamer\Desktop\Atividade 1-2 Vetor\Atividade 1-2 Vetor\Atividade 1-2 Vetor\obj\Debug\Atividade 1-2 Vetor.pdb
